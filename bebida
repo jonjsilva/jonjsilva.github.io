@@ -1,0 +1,119 @@
+[  
+
+
+
+   {  
+
+
+
+      "descricao":"Refrigerante ou chá gelado copo 500ml.",
+
+
+
+      "foto":"https://github.com/jonjsilva/cardapio/blob/master/images/B1.jpg",
+
+
+
+      "nome":"Free Refill",
+
+
+
+      "preco":"5.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"água de copo 500ml ",
+
+
+
+      "foto":"cardapio/images/B1.jpg",
+
+
+
+      "nome":"Água de copo",
+
+
+
+      "preco":"3.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Suco de laranja natural.",
+
+
+
+      "foto":"https://raw.githubusercontent.com/jonjsilva/cardapio/master/images/B1.JPG",
+
+
+
+      "nome":"Suco de laranja",
+
+
+
+      "preco":"5.90"
+
+
+
+   },
+
+   {
+
+      "descricao":"Coca-Cola 2litros.",
+
+
+
+      "foto":"https://ibb.co/1btz0cD",
+
+
+
+      "nome":"Coca-Cola",
+
+
+
+      "preco":"10.80"
+
+     
+
+    },
+
+    
+
+    {
+
+   
+
+      "descricao":"Cerveja original 600ml.",
+
+
+
+      "foto":"https://ibb.co/qrN6bQB",
+
+
+
+      "nome":"Cerveja Original",
+
+
+
+      "preco":"8.90"
+
+     
+
+    }
+
+]
