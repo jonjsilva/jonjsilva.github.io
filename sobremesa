@@ -1,0 +1,121 @@
+[  
+
+
+
+   {  
+
+
+
+      "descricao":"Sorvete de creme com cobertura de chocolate.",
+
+
+
+      "foto":"https://www.google.com/search?q=hamburger&tbm=isch&source=iu&ictx=1&fir=YGP5M136uRt8sM%253A%252CrcqQt0EY8EGNJM%252C%252Fm%252F0cdn1&vet=1&usg=AI4_-kRfdBJUgKxRxLjHOF3QryCUwslRDw&sa=X&ved=2ahUKEwitivK416DhAhWLK7kGHaM0DKgQ_B0wJ3oECA0QBg#imgrc=YGP5M136uRt8sM:",
+
+
+
+      "nome":"OnColosso",
+
+
+
+      "preco":"4.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Casquinhas de chocolate com cobertura de creme.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Casquinhas",
+
+
+
+      "preco":"2.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Sorvete de creme coberto com Ovomaltine e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Ovomaltine",
+
+
+
+      "preco":"4.50"
+
+
+
+   },
+   
+
+   {  
+
+
+
+      "descricao":"Sorvete de creme coberto de Óreo e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Óreo",
+
+
+
+      "preco":"5.00"
+
+
+
+   },
+   
+  {  
+
+
+
+      "descricao":"Sorvete de creme com pedaços de Bis e calda de chocolate.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnMix Bis",
+
+
+
+      "preco":"5.50"
+
+     
+    }
+
+
+
+]

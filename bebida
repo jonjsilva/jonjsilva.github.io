@@ -6,11 +6,11 @@
 
 
 
-      "descricao":"Refrigerante ou chá gelado copo 500ml.",
+      "descricao":"Refrigeraente ou chá gelado copo 500ml.",
 
 
 
-      "foto":"https://github.com/jonjsilva/cardapio/blob/master/images/B1.jpg",
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-      "foto":"cardapio/images/B1.jpg",
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h2.jpg  ",
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-      "foto":"https://raw.githubusercontent.com/jonjsilva/cardapio/master/images/B1.JPG",
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h3.jpg",
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-      "foto":"https://ibb.co/1btz0cD",
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h4.jpg",
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-      "foto":"https://ibb.co/qrN6bQB",
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h5.jpg",
 
 
 
@@ -115,5 +115,7 @@
      
 
     }
+
+
 
 ]

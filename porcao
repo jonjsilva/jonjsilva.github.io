@@ -1,0 +1,123 @@
+[  
+
+
+
+   {  
+
+
+
+      "descricao":"Balde de batata crocante",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Balde batata",
+
+
+
+      "preco":"9.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Pastéis de carne porção com 10 unidades.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Pastéis de carne",
+
+
+
+      "preco":"12.00"
+
+
+
+   },
+
+
+
+   {  
+
+
+
+      "descricao":"Batata frita média crocante.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Batata frita média",
+
+
+
+      "preco":"7.00"
+
+
+
+   },
+   
+
+   {  
+
+
+
+      "descricao":"Bolinho de bacalhau porção com 8 unidades.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"Bolinho de bacalhau",
+
+
+
+      "preco":"14.00"
+
+
+
+   },
+
+   
+  {  
+
+
+
+      "descricao":"OnChicken, steaks de frango co presunto. Porção com 10 unidades.",
+
+
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+
+
+      "nome":"OnChicken 10",
+
+
+
+      "preco":"14.90"
+
+
+
+   }
+
+
+
+]

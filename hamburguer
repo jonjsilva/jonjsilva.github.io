@@ -1,0 +1,62 @@
+[  
+
+   {  
+
+      "descricao":"2 carnes, pão com gergelim, queijo derretido, bacon, cheddar.",
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+
+      "nome":"Mega Stacker Atomico 2.0",
+
+      "preco":"19.90"
+
+   },
+
+   {  
+
+      "descricao":"Pão polvilhado,cheddar,picanha,pickles ",
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h2.jpg  ",
+
+      "nome":"Picanha",
+
+      "preco":"18.90"
+
+   },
+
+   {  
+
+      "descricao":"Pão com gergelim, bacon, 2 hamburgueres, cheddar, pickles.",
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h3.jpg",
+
+      "nome":"Whopper",
+
+      "preco":"17.90"
+
+   },
+   {
+   
+      "descricao":"Pão com gergelim, bacon,2 hamburgueres, cheddar, tomate.",
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h4.jpg",
+
+      "nome":"OnBurguer",
+
+      "preco":"15.90"
+     
+    },
+    
+    {
+   
+      "descricao":"Pão, bacon, 2 hamburgueres, alface, tomate.",
+
+      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h5.jpg",
+
+      "nome":"Burguer",
+
+      "preco":"15.90"
+     
+    }
+
+]
