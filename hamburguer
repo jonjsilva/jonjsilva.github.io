@@ -4,7 +4,7 @@
 
       "descricao":"2 carnes, pão com gergelim, queijo derretido, bacon, cheddar.",
 
-      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h1.jpg ",
+    "foto":"http://jonjsilva.github.io/images/h1.jpg",
 
       "nome":"Mega Stacker Atomico 2.0",
 
@@ -16,7 +16,7 @@
 
       "descricao":"Pão polvilhado,cheddar,picanha,pickles ",
 
-      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h2.jpg  ",
+     "foto":"http://jonjsilva.github.io/images/h2.jpg",
 
       "nome":"Picanha",
 
@@ -28,7 +28,7 @@
 
       "descricao":"Pão com gergelim, bacon, 2 hamburgueres, cheddar, pickles.",
 
-      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h3.jpg",
+    "foto":"http://jonjsilva.github.io/images/h4.jpg",
 
       "nome":"Whopper",
 
@@ -38,10 +38,10 @@
    {
    
       "descricao":"Pão com gergelim, bacon,2 hamburgueres, cheddar, tomate.",
+      
+      "foto":"http://jonjsilva.github.io/images/h5.jpg",
 
-      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h4.jpg",
-
-      "nome":"OnBurguer",
+      "nome":"Super Master",
 
       "preco":"15.90"
      
@@ -51,9 +51,9 @@
    
       "descricao":"Pão, bacon, 2 hamburgueres, alface, tomate.",
 
-      "foto":"gs://cardapiodigital-6ecd5.appspot.com/hamburguer/h5.jpg",
+      "foto":"http://jonjsilva.github.io/images/h6.jpg",
 
-      "nome":"Burguer",
+      "nome":"Explosão de sabor",
 
       "preco":"15.90"
      
