@@ -8,7 +8,9 @@
 
       "nome":"Mega Stacker Atomico 2.0",
 
-      "preco":"19.90"
+      "preco":"19.90",
+      
+       "id":"1"
 
    },
 
@@ -20,7 +22,9 @@
 
       "nome":"Picanha",
 
-      "preco":"18.90"
+      "preco":"18.90",
+      
+       "id":"2"
 
    },
 
@@ -32,7 +36,9 @@
 
       "nome":"Whopper",
 
-      "preco":"17.90"
+      "preco":"17.90",
+      
+       "id":"3"
 
    },
    {
@@ -43,7 +49,9 @@
 
       "nome":"Super Master",
 
-      "preco":"15.90"
+      "preco":"15.90",
+      
+       "id":"4"
      
     },
     
@@ -55,7 +63,9 @@
 
       "nome":"Explosão de sabor",
 
-      "preco":"15.90"
+      "preco":"15.90",
+      
+       "id":"5"
      
     }
 
